@@ -6,7 +6,9 @@ public class Demo01 {
 		System.out.println("hello,word!");
 		System.out.println("test: v1");
 		System.out.println("test: v3");
-		
+
+		System.out.println("test: v2");
+
 		
 		
 	}
